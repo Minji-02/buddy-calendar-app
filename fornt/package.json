@@ -12,6 +12,9 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "_comment" : "프록시 설정(백엔드 연결을 위함)",
+  "proxy": "http://localhost:8080",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
